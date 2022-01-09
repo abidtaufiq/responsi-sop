@@ -2,4 +2,4 @@
 
 
 ## Soal 1
-![ss ManajemenRam](public\soal_satu.png)
+![ss ManajemenRam](public/soal_satu.png)
